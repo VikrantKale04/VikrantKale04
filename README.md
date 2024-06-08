@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vikrant Kale</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **React React Nativ**
+- 🌱 I’m currently learning **Backend Web Development**
 
 - 💬 Ask me about **Front-end Development**
 
